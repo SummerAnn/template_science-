@@ -1,0 +1,23 @@
+.banner {
+  background-color: #2979ff;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-text {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  margin: 0;
+  text-shadow: 2px 2px #004ecb;
+}
+
+p {
+  font-size: 1.5em;
+  margin: 0;
+}
